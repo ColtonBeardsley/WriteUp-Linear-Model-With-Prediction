@@ -60,6 +60,7 @@ ggplot(data,aes(y=ARM+GRIP,x=SIMS))+
 cor(SIMS~ARM,data=data)
 cor(SIMS~GRIP,data=data)
 cor(SIMS~ARM+GRIP,data=data)
+
 ```
 
 

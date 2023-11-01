@@ -82,5 +82,6 @@ Based on the data shown, model 3 is the best option. The residual standard error
 
 We can confidently reject the null hypothesis suggesting no relationship between the data. Examination of the scatter plot's regression lines clearly illustrates an overall positive correlation in the data. Furthermore, the correlation coefficients, being closer to one than zero, affirm the presence of a significant relationship. To determine the best-fitting model, we conducted a thorough evaluation, comparing adjusted R-squared values, residual standard errors, and utilizing the predict function to assess the width of confidence intervals. Model three consistently outperformed the other models in all categories and was further corroborated by a one-way ANOVA, where it yielded the lowest P-value among the options.
 
+
 Based on our findings, we can assert that physical strength serves as a robust indicator of job performance in this study, with the combination of arm and grip strength emerging as the most effective predictor from the provided data.
 
